@@ -8,8 +8,8 @@ A smart contract designed to analyze ERC-20 tokens for potential rug pulls. This
 
 1. Clone this repository and set up the project:
 
-`git clone https://github.com/yourusername/RugCheck.git`
-`cd RugCheck`
+`git clone https://github.com/yourusername/RugCheck.git` <br>
+`cd RugCheck` <br>
 `npm install`
 
 2. Solidity is a statically typed programming language, and you must compile the code before deploying the smart contract:
